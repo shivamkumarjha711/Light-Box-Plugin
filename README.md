@@ -1,3 +1,6 @@
+
+![Light-Box-Plugin](https://github.com/shivamkumarjha711/Light-Box-Plugin/assets/125046297/619baf4e-68d8-4fc4-bfe5-170336805ad4)
+
 The Lightbox Plugin is a user-friendly and efficient solution for enhancing image viewing experiences on websites. By leveraging HTML, CSS, and JavaScript, this lightweight and versatile plugin creates a captivating popup when users click on an image, displaying it in a larger format. Additionally, the plugin incorporates an image sliding feature for seamless navigation and utilizes local storage to save the user's preferences and settings. This description aims to provide an overview of the key functionalities and technologies used in this GitHub repository.
 
 ## Features:
